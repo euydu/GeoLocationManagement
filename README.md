@@ -17,20 +17,20 @@ Features
 3.	Add script to the policy
 4.	Configure parameters
 
-            Parameter -4 : Your company name.
+            Parameter -4 : Your company / Department name. 
             Parameter -5 : Country Code.
-            Parameter -6 : State(s) – You can specify multiple states with comma.
-            Parameter -7 : City(ies) – You can specify multiple states with comma.
+            Parameter -6 : State(s)
+            Parameter -7 : City(ies)
 
     
 ## Screenshots
 
-![App Screenshot](https://snipboard.io/PNYZ0R.jpg)
+![App Screenshot](https://snipboard.io/HGdl6i.jpg)
 
 
 ## Support
 
-For support, email emreuydu@gmail.com channel.
+For support, email to emreuydu@gmail.com.
 
 
 ## Authors
