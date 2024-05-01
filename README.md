@@ -18,14 +18,16 @@ Features
 4.	Configure parameters
 
             Parameter -4 : Your company / Department name. 
-            Parameter -5 : Country Code.
+            Parameter -5 : Country Code(s)
             Parameter -6 : State(s)
             Parameter -7 : City(ies)
+    If necessary, you can use multiple countries/states/cities by placing a comma between the country codes/states/cities.
+    Please note that, in this case device(s) will be used in multiple countries/states/cities. 
 
     
 ## Screenshots
 
-![App Screenshot](https://snipboard.io/HGdl6i.jpg)
+![App Screenshot](https://snipboard.io/eWTlHs.jpg)
 
 
 ## Support
